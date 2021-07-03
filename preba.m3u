@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX:TNT" group="Mexico" logo="TN" tvg-country="MX", TNT
+#EXTINF:0 type="estream" channelId="-1" name="GT:TN23" group="Guatemala" logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.ggpht.com%2Fytc%2FAAUvwnjY_EmYWRaNsTvzN0Rz-m1yP6FJIMIeXvrKEPti%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fstats.video%2Fyoutube-channel-statistics%2Ftn23&tbnid=GfR9Uk8t5ZLPGM&vet=12ahUKEwj8hcDpysfxAhUCyawKHZgcCfMQMygCegUIARC7AQ..i&docid=P9L0RLjcoYnTwM&w=900&h=900&q=tn23&ved=2ahUKEwj8hcDpysfxAhUCyawKHZgcCfMQMygCegUIARC7AQ" tvg-country="GT", TN23
 https://photocall.tv/js8g/cls?vid=//gt-chapintv-canal23-live.ned.media/chapintv/canal23.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDIzNTAxLCJzZXNzaW9uIjoiMTcwLjguMTAuNTAiLCJ3aGl0ZWxpc3QiOlsiMTcwLjguMTAuNTAiXX0sInNpZ25hdHVyZSI6IjUzN2RlZWNmN2YyZjgxNDA4NWVlMmVkNWM4M2IxNjI2YmUxY2FjYmEifQ==
+
+#EXTINF:0 type="estream" channelId="-1" name="GT:Guatevision" group="Guatemala" logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.guatevision.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2019%2F09%2Fcropped-gtvicon-1.png%3Fquality%3D82&imgrefurl=https%3A%2F%2Fwww.guatevision.com%2Fen-vivo&tbnid=qWdLWemLuYKzNM&vet=12ahUKEwjA-Lqoy8fxAhUHyKwKHSCUATQQMygDegUIARCvAQ..i&docid=k3kiqv2S-gW3RM&w=512&h=512&q=guatevision&ved=2ahUKEwjA-Lqoy8fxAhUHyKwKHSCUATQQMygDegUIARCvAQ" tvg-country="GT", Guatevision
+https://photocall.tv/js8g/l1?ch=guatevision
